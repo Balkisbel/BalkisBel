@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👩‍💻 Balkis Belghouthi
 
-<!--
-**Balkisbel/BalkisBel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Embedded Systems & IoT Engineer | STM32 | LoRaWAN | Edge AI  
 
-Here are some ideas to get you started:
+🚀 Passionnée par les systèmes embarqués intelligents et les solutions IoT industrielles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📄 Portfolio
+- 📥 [Download CV](https://github.com/BalkisBel/portfolio/blob/main/CV.pdf)
+- 🎨 [View Portfolio](https://github.com/BalkisBel/portfolio/blob/main/portfolio.pdf)
+
+## 🚀 Featured Project
+Smart Underground Miner Safety System (STM32 + LoRaWAN)
+
+## 🌐 Connect
+- LinkedIn: https://linkedin.com/in/balkis-belghouthi
