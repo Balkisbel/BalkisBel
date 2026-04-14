@@ -64,7 +64,7 @@ Design and deployment of a **smart underground miner safety system using STM32 p
 ## 📄 Resume & Portfolio
 
 📥 **CV:** [Download CV](https://github.com/Balkisbel/PORTOFLIO/blob/main/Resume_Belghouthi_Balkis.pdf)
-🎨 **Portfolio (Canva):** [(./Belghouthi_Balkis_PORTFOLIO.pdf)](https://github.com/Balkisbel/PORTOFLIO/blob/main/Belghouthi_Balkis_PORTFOLIO.pdf)
+🎨 **Portfolio :** [(./Belghouthi_Balkis_PORTFOLIO.pdf)](https://github.com/Balkisbel/PORTOFLIO/blob/main/Belghouthi_Balkis_PORTFOLIO.pdf)
 
 ---
 
